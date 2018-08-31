@@ -1,6 +1,5 @@
 
-soft
-<!DOCTYPE html>
+
 <html>
 
 
