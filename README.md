@@ -52,7 +52,7 @@
                         header_styles: 'type7',
                         isLandingPage: '',
                         isRTL: '',
-                        pluginURL: 'http://www.clever-software.net/wp-content/plugins/',
+                        pluginURL: '',
                         isResponsive: 'enable',
                         layout_pattern: ''
                     };
@@ -183,7 +183,7 @@
                                                 <!-- SLIDE  -->
                                                 <li data-transition="" data-slotamount="7" data-masterspeed="300" data-saveperformance="on">
                                                     <!-- MAIN IMAGE -->
-                                                    <img src="http://www.clever-software.net/wp-content/plugins/revslider/images/dummy.png" alt="phone_slide" data-lazyload="http://www.clever-software.net/wp-content/uploads/2015/02/phone_slide.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                                    <img src="" alt="phone_slide" data-lazyload="http://www.clever-software.net/wp-content/uploads/2015/02/phone_slide.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                                                     <!-- LAYERS -->
                                                 </li>
                                             </ul>
@@ -519,7 +519,7 @@
                                     <div class="dt-sc-margin20"></div>
                                 </div>
                             </div>
-                            <div class='fullwidth-section  dt-sc-parallax-section' style="color:#ffffff;background-image:url(http://www.clever-software.net/wp-content/uploads/2015/02/desk-desktop-monitor-3150.jpg);padding-top:60px;padding-bottom:50px;background-attachment:fixed; ">
+                            <div class='fullwidth-section  dt-sc-parallax-section' style="color:#ffffff;background-image:url();padding-top:60px;padding-bottom:50px;background-attachment:fixed; ">
                                 <div class="container">
                                     <div class="main-title aligncenter">
                                         <h3 class="">Some facts about<span class="wlast"> Clever Software</span><span class="small-line"></span>
@@ -661,7 +661,7 @@
 
                                     <figure>
 
-                                        <img src='http://www.clever-software.net/wp-content/uploads/2015/02/cw-475x475.jpg' width='475' height='475' />
+                                        <img src='' width='475' height='475' />
                                         <div class="image-overlay">
                                             <span class="white-box"></span>
                                             <div class="image-overlay-text">
